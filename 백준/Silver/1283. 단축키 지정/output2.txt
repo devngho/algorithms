@@ -1,0 +1,8 @@
+[N]ew window
+New [f]ile
+[C]opy
+[U]ndo
+F[o]rmat
+Fon[t]
+Cut
+[P]aste

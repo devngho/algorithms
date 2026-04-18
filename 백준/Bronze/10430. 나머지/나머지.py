@@ -1,0 +1,5 @@
+i = input().split()
+A = int(i[0])
+B = int(i[1])
+C = int(i[2])
+print("%d\n%d\n%d\n%d\n" %( (A+B)%C, ((A%C) + (B%C))%C,(A*B)%C,((A%C) * (B%C))%C))

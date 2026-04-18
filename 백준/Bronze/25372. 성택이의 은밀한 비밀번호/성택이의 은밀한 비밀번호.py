@@ -1,0 +1,1 @@
+print(*["yes" if 6 <= len(i) <= 9 else "no" for i in [input() for _ in range(int(input()))]], sep='\n')

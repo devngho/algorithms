@@ -1,0 +1,4 @@
+EVEN
+ODD
+ODD
+TIE
